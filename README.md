@@ -1,7 +1,7 @@
 # Flanker Task
-#### *Effects of noise letters upon the identification of a target letter in a nonsearch task (Eriksen & Eriksen, 1974)*
+### *Effects of noise letters upon the identification of a target letter in a nonsearch task (Eriksen & Eriksen, 1974)*
 
-### Project Description: 
+## Project Description: 
 
 The main goal of the original study was to observe response inhibition - that is, our ability to suppress responses that are contextually inappropriate given the task at hand. We provoke this response by presenting target stimuli with noise that provides either relevant or irrelevant information (i.e. "flankers"). 
 
