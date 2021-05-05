@@ -1,0 +1,83 @@
+#Expyriment 0.10.0 (Python 3.8.5), .xpd-file, coding: cp1252
+#date: Wed May 05 2021 14:12:55
+#--EXPERIMENT INFO
+#e mainfile: flanker.py
+#e sha1: None
+#e modules: 
+#e Experiment: Flanker Task
+#e no between subject factors
+#e Block 0: 1
+#e     block factors: 
+#e     n trials: 6
+#e     trial factors: trialtype = [congruent, incongruent, neutral]
+#e                    correctresponse = [275, 276]
+#e                    
+#e Block 1: 2
+#e     block factors: 
+#e     n trials: 6
+#e     trial factors: trialtype = [congruent, incongruent, neutral]
+#e                    correctresponse = [275, 276]
+#e                    
+#e Block 2: 3
+#e     block factors: 
+#e     n trials: 6
+#e     trial factors: trialtype = [congruent, incongruent, neutral]
+#e                    correctresponse = [275, 276]
+#e                    
+#e Block 3: 4
+#e     block factors: 
+#e     n trials: 6
+#e     trial factors: trialtype = [congruent, incongruent, neutral]
+#e                    correctresponse = [275, 276]
+#e                    
+#e Block 4: 5
+#e     block factors: 
+#e     n trials: 6
+#e     trial factors: trialtype = [congruent, incongruent, neutral]
+#e                    correctresponse = [275, 276]
+#e                    
+#e Block 5: 6
+#e     block factors: 
+#e     n trials: 6
+#e     trial factors: trialtype = [congruent, incongruent, neutral]
+#e                    correctresponse = [275, 276]
+#e                    
+#--SUBJECT INFO
+#s id: 00
+subject_id,Block,Trial Type,Correct Response,Subject Response,Trial Number,RT,Accuracy
+00,1,neutral,276,276,3,840,1
+00,1,neutral,275,275,2,759,1
+00,1,incongruent,276,275,5,728,0
+00,1,incongruent,275,275,4,589,1
+00,1,congruent,276,276,0,446,1
+00,1,congruent,275,275,1,468,1
+00,2,congruent,276,276,0,478,1
+00,2,incongruent,275,275,4,539,1
+00,2,incongruent,276,276,5,559,1
+00,2,neutral,276,276,3,513,1
+00,2,neutral,275,275,2,473,1
+00,2,congruent,275,275,1,714,1
+00,3,neutral,276,276,3,499,1
+00,3,neutral,275,275,2,420,1
+00,3,incongruent,275,275,4,642,1
+00,3,congruent,275,275,1,559,1
+00,3,incongruent,276,276,5,497,1
+00,3,congruent,276,276,0,497,1
+00,4,neutral,275,275,2,479,1
+00,4,incongruent,275,275,4,699,1
+00,4,incongruent,276,276,5,562,1
+00,4,congruent,275,275,1,510,1
+00,4,neutral,276,276,3,470,1
+00,4,congruent,276,276,0,505,1
+00,5,incongruent,275,275,4,535,1
+00,5,incongruent,276,276,5,492,1
+00,5,neutral,276,276,3,541,1
+00,5,congruent,276,276,0,603,1
+00,5,congruent,275,276,1,937,0
+00,5,neutral,275,275,2,478,1
+00,6,incongruent,276,276,5,525,1
+00,6,neutral,275,275,2,448,1
+00,6,congruent,275,275,1,514,1
+00,6,congruent,276,276,0,515,1
+00,6,incongruent,275,275,4,1148,1
+00,6,neutral,276,276,3,584,1
