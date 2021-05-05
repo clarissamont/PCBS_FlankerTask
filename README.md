@@ -22,3 +22,13 @@ The participant's task is to indicate whether the center arrow is pointing to th
 The task is expected to be the most difficult for participants when doing the congruent task; that is, they will probably have slower reaction times and less accurate responses overall.
 
 \* *I created the "neutral" stimuli in an attempt to replicate the "neutral" condition of the original experiment. I tried to choose a symbol that would not bias perception of arrow direction, but that would just be added noise. This is why I chose the "|" symbol.*
+
+## Running the Code: 
+
+To execute this experiment, please download and run "flanker.py" on python. After the experiment ends (it will do so automatically), the participant data should be saved to the same folder where you downlaoded the "flanker.py" file. The data will be labelled flanker_ParticipantNumber_Date.xpd. In this file, you will find: the subject ID, block of the experiment (1-6), correct response for each trial (275 = LEFT, 276 = RIGHT), participant response for each trial (275 = LEFT, 276 = RIGHT), trial number (between 0 and 5 for each block), response time, response accuracy (1 = correct, 0 = incorrect), and trial type (congruent, neutral, or incongruent). An example of a .xpd file with sample data can be found at: 
+
+## Previous Coding Experience & PCBS Comments: 
+
+I don't have very much coding experience. In my undergrad I did a little bit of data analysis/statistics using R, but I have only been learning Python since the beginning of the Cogmaster (i.e. the datacamp class in S1). 
+
+I liked this course because it pushed me to apply things I learned about Python in the first semester. The lectures early on in the course were great as reminders/ learning useful skills that I should know. It's also very useful to know how to design experiments using expyriment!
