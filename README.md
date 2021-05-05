@@ -23,7 +23,7 @@ The task is expected to be the most difficult for participants when doing the co
 
 \* *I created the "neutral" stimuli in an attempt to replicate the "neutral" condition of the original experiment. I tried to choose a symbol that would not bias perception of arrow direction, but that would just be added noise. This is why I chose the "|" symbol.*
 
-## Running the Code: 
+## Running this Experiment:
 
 To execute this experiment, please download and run "flanker.py" on python. After the experiment ends (it will do so automatically), the participant data should be saved to the same folder where you downlaoded the "flanker.py" file. The data will be labelled flanker_ParticipantNumber_Date.xpd. In this file, you will find: the subject ID, block of the experiment (1-6), correct response for each trial (275 = RIGHT, 276 = LEFT), participant response for each trial (275 = RIGHT, 276 = LEFT), trial number (between 0 and 5 for each block), response time, response accuracy (1 = correct, 0 = incorrect), and trial type (congruent, neutral, or incongruent). An example of a .xpd file with sample data can be found at: https://github.com/clarissamont/PCBS_FlankerTask/blob/main/flanker_00_202105051412.xpd
 
