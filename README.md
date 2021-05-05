@@ -13,8 +13,10 @@ In **congruent stimuli** the target letter and the flankers correspond to the sa
 
 In the original study, participant responses were slower and less accurate in the incongruent condition, indicating difficulties inibiting responses that have been influenced by irrelevant noise. 
 
-## Project Description: 
+## PCBS Project Description: 
 
-In this rendition of the Eriksen Flanker task, I have simplified the original letter-based task by using left- and right-pointing arrows (i.e. "<" and ">") as stimuli. The premise of the experiment is identical to the original task with letters associated to direction; that is, the participant is required to fixate on a cross in the middle of the screen, prior to seeing stimuli where the arrows surrounding the middle arrow are either **congruent** ("<<<<<", ">>>>>") or **incongruent** ("<<><<", ">><>>") with the arrow in the middle position. The only difference is that here, the participant no longer needs to create the association between letter and direction. 
+In this rendition of the Eriksen Flanker task, I have simplified the original letter-based task by using left- and right-pointing arrows (i.e. "<" and ">") as stimuli. The premise of the experiment is identical to the original task with letters associated to direction; that is, the participant is required to fixate on a cross in the middle of the screen, prior to seeing stimuli where the arrows surrounding the middle arrow are either **congruent** ("<<<<<", ">>>>>"), **neutral** ("||<||", ||>||") or **incongruent** ("<<><<", ">><>>") with the arrow in the middle position. The only difference is that here, the participant no longer needs to create the association between letter and direction.
 
-The participant's task is to indicate whether the **middle** arrow is pointing to the left or the right by pressing the right or left arrows on the keyboard, respectively.  
+The participant's task is to indicate whether the **center** arrow is pointing to the left or the right by pressing the right or left arrows on the keyboard, respectively.  
+
+The task is expected to be the most difficult for participants when doing the **congruent** task; that is, they will probably have slower reaction times and less accurate responses overall. 
