@@ -11,6 +11,7 @@ from expyriment import misc
 # Set up number of trials per block (the number of stimuli), and the number of blocks
 n_trials_block = 6
 n_blocks = 6
+
 # Set trial length
 duration = 2000
 
