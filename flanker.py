@@ -1,8 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 13 20:29:07 2021
+This code runs the "Flanker Task" experiment, where the participant is presented with one of 3 types of stimuli: 
 
-@author: clari
+CONGRUENT: >>>>> or <<<<<
+INCONGRUENT: <<><< or >><>>
+NEUTRAL: ||<|| or ||>||
+
+The participant clicks the arrow keys (RIGHT or LEFT) corresponding to the arrow presented in the MIDDLE of the stimulus, regardless of the surrounding symbols/arrows.
+
 """
 
 import expyriment
