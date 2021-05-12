@@ -19,7 +19,7 @@ In this rendition of the Eriksen Flanker task, I have simplified the original le
 
 The participant's task is to indicate whether the center arrow is pointing to the left or the right by pressing the right or left arrows on the keyboard, respectively.
 
-The task is expected to be the most difficult for participants when doing the congruent task; that is, they will probably have slower reaction times and less accurate responses overall.
+The task is expected to be the most difficult for participants when doing the incongruent task; that is, they will probably have slower reaction times and less accurate responses overall.
 
 \* *I created the "neutral" stimuli in an attempt to replicate the "neutral" condition of the original experiment. I tried to choose a symbol that would not bias perception of arrow direction, but that would just be added noise. This is why I chose the "|" symbol.*
 
